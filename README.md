@@ -3,16 +3,6 @@ tags: 平行程式設計
 ---
 
 # Multi-thread Programming
-<style>
-.aligncenter {
-    text-align: center;
-}
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;  
-}
-</style>
 ## Q1
 > In your write-up, produce a graph of speedup compared to the reference sequential implementation as a function of the number of threads used FOR VIEW 1. Is speedup linear in the number of threads used? In your writeup hypothesize why this is (or is not) the case? (You may also wish to produce a graph for VIEW 2 to help you come up with a good answer. Hint: take a careful look at the three-thread data-point.)
 
